@@ -38,5 +38,7 @@
     { "name": "StinkyPaintingReplacement", "url": "https://thunderstore.io/package/download/LandoZor/StinkyPaintingReplacement/1.1.0/", "tags": ["Client", "Fun"], "dependencies": [] },
     { "name": "ChatClipboard", "url": "https://thunderstore.io/package/download/ManancialGD/ChatClipboard/1.0.0/", "tags": ["Client", "QOL"], "dependencies": [] },
     { "name": "ShoppingListHUD", "url": "https://thunderstore.io/package/download/khalliv/ShoppingListHUD/1.0.2/", "tags": ["UI"], "dependencies": [] },
-    { "name": "GambleInShop", "url": "https://thunderstore.io/package/download/khalliv/GambleInShop/1.0.0/", "tags": ["Fun"], "dependencies": ["REPOLib"] }
+    { "name": "GambleInShop", "url": "https://thunderstore.io/package/download/khalliv/GambleInShop/1.0.0/", "tags": ["Fun"], "dependencies": ["REPOLib"] },
+    { "name": "HumanizedShop", "url": "https://thunderstore.io/package/download/upgame/HumanizedShop/1.0.0/", "tags": ["QOL", "Cheats?"], "dependencies": [] },
+    { "name": "ScalingPrices", "url": "https://thunderstore.io/package/download/EvilCheetah/ScalingPrices/1.1.2/", "tags": ["QOL"], "dependencies": [] }
 ]
